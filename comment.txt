@@ -1,0 +1,4 @@
+Execution time for asynchronous query scripts is approximately: 1min 1s
+Execution time for scripts with synchronous queries is approximately: 5min 35s
+
+The difference is huge, which is probably why it is recommended to use asynchronous queries
